@@ -1,5 +1,6 @@
 # Atik Sahariyar 
-###MERN Stack Developer
+
+##MERN Stack Developer
 
 **Contact Information:**  
 - **Address:** Dhaka, Bangladesh.
